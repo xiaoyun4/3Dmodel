@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 From[[:space:]]Music[[:space:]]to[[:space:]]Singing[[:space:]]Head-High_Resolution.mp4 filter=lfs diff=lfs merge=lfs -text
+From[[:space:]]Music[[:space:]]to[[:space:]]Singing[[:space:]]Head-High_Resolution.mp4 filter=lfs diff=lfs merge=lfs -text
